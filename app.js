@@ -1,5 +1,5 @@
 console.log("pre commit");
-console.log("dummy content");
-const dummy="test";
+
+const dummy='text';
 
 console.log(dummy);
